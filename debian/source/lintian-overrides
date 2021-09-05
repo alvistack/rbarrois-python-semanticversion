@@ -1,0 +1,3 @@
+python-semantic-version source: no-debian-changes
+python-semantic-version source: source-contains-prebuilt-windows-binary
+python-semantic-version source: source-package-encodes-python-version
